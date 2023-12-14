@@ -1,4 +1,4 @@
-# Monty Project: Queues, Stacks, and Heaps in C Programming
+# Queues, Stacks, and Heaps in C Programming
 
 The Monty Project is an open-source project aimed at implementing data structures like queues, stacks, and heaps in C programming language. It provides a solid foundation for beginners to learn about these essential data structures.
 
